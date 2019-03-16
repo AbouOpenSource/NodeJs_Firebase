@@ -1,0 +1,15 @@
+{
+  "name": "nodejsfirebasemessaging",
+  "version": "1.0.0",
+  "description": "Testing out nodejs with firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "nodejs"
+  ],
+  "author": "Sanou Abou Dramane",
+  "license": "ISC"
+}
